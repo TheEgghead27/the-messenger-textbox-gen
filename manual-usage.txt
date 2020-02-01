@@ -1,0 +1,12 @@
+Use some image manipulation software to add a profile photo or image of yourself 
+to the text box and save that file as (namehere)template.png or something like that.
+
+When you want to add text to the image, make sure the font is installed on your 
+system and line up the top and bottom of your first letter in the sentence with 
+the 2 white pixels in the template. 
+This will allow you to figure out the correct spacing and font size.
+
+There is a second image template file included that is less accurate to the ARG but higher resolution, called template-smoothe.png.
+Thanks to Steph from The Messenger Discord server for making the higher res version.
+
+Good luck!
