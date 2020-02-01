@@ -1,3 +1,5 @@
+Instructions for manually using template files:
+
 Use some image manipulation software to add a profile photo or image of yourself 
 to the text box and save that file as (namehere)template.png or something like that.
 
